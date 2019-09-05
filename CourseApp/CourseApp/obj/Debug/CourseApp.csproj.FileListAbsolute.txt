@@ -1,0 +1,11 @@
+C:\Users\sattar\Desktop\P112\C#\20190905\CourseApp\CourseApp\bin\Debug\CourseApp.exe.config
+C:\Users\sattar\Desktop\P112\C#\20190905\CourseApp\CourseApp\bin\Debug\CourseApp.exe
+C:\Users\sattar\Desktop\P112\C#\20190905\CourseApp\CourseApp\bin\Debug\CourseApp.pdb
+C:\Users\sattar\Desktop\P112\C#\20190905\CourseApp\CourseApp\obj\Debug\CourseApp.csprojAssemblyReference.cache
+C:\Users\sattar\Desktop\P112\C#\20190905\CourseApp\CourseApp\obj\Debug\CourseApp.Forms.Dashboard.resources
+C:\Users\sattar\Desktop\P112\C#\20190905\CourseApp\CourseApp\obj\Debug\CourseApp.Properties.Resources.resources
+C:\Users\sattar\Desktop\P112\C#\20190905\CourseApp\CourseApp\obj\Debug\CourseApp.csproj.GenerateResource.cache
+C:\Users\sattar\Desktop\P112\C#\20190905\CourseApp\CourseApp\obj\Debug\CourseApp.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P112\C#\20190905\CourseApp\CourseApp\obj\Debug\CourseApp.exe
+C:\Users\sattar\Desktop\P112\C#\20190905\CourseApp\CourseApp\obj\Debug\CourseApp.pdb
+C:\Users\sattar\Desktop\P112\C#\20190905\CourseApp\CourseApp\obj\Debug\CourseApp.Forms.ClassroomForm.resources
